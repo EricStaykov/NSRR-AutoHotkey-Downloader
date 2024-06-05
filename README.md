@@ -2,7 +2,7 @@
 
 • Written by Eric Staykov (2024)
 
-• Please do not distribute without consent
+• Please do not distribute without the license.
 
 • Download NSRR files quickly and in parallel from a browser
 
